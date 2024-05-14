@@ -1,0 +1,17 @@
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\EjercicioClase1Modulo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\EjercicioClase1Modulo2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\EjercicioClase1Modulo2.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\EjercicioClase1Modulo2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\EjercicioClase1Modulo2.exe
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\Ejercicio1.json
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\Ejercicio2.json
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\Ejercicio3.json
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\EjercicioClase1Modulo2.deps.json
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\EjercicioClase1Modulo2.runtimeconfig.json
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\EjercicioClase1Modulo2.dll
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\bin\Debug\net6.0\EjercicioClase1Modulo2.pdb
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\EjercicioClase1Modulo2.dll
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\refint\EjercicioClase1Modulo2.dll
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\EjercicioClase1Modulo2.pdb
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\EjercicioClase1Modulo2.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\modulo2\Ejercicio1Modulo2-main\EjercicioClase1Modulo2\obj\Debug\net6.0\ref\EjercicioClase1Modulo2.dll
